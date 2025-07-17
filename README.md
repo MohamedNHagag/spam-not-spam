@@ -54,4 +54,3 @@ Given a dataset of email/text messages labeled as **spam** or **ham**, the goal 
 
 ---
 
-## 📂 Project Structure
